@@ -1,7 +1,7 @@
 Invade_Annex
 ============
 
-Day 2 Dusk Falvor
+Day 2 Dusk Flavor
 
 MCC Enabled
 
